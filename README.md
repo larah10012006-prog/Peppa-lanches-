@@ -1,6 +1,6 @@
 # 🐷 Projeto - Peppa Lanches
 
-Trabalho desenvolvido para a disciplina de *Gestão e Qualidade de Software, utilizando **Java, **Maven* e *Cucumber* com cenários escritos em *Gherkin*. O projeto segue regras de negócio definidas no enunciado e aplica testes automatizados para validar o comportamento do sistema.
+Trabalho desenvolvido para a disciplina de Gestão e Qualidade de Software, utilizando Java, Maven e Cucumber com cenários escritos em Gherkin. O projeto segue regras de negócio definidas no enunciado e aplica testes automatizados para validar o comportamento do sistema.
 
 ## 👥 Integrantes
 
@@ -12,9 +12,9 @@ Trabalho desenvolvido para a disciplina de *Gestão e Qualidade de Software, uti
 
 ## 📄 Descrição Geral do Projeto
 
-Este projeto foi desenvolvido inteiramente em equipe utilizando *Codespaces no GitHub*, garantindo colaboração simultânea e organizada entre todos os integrantes.
+Este projeto foi desenvolvido inteiramente em equipe utilizando Codespaces no GitHub, garantindo colaboração simultânea e organizada entre todos os integrantes.
 
-Durante o processo, aplicamos boas práticas de *versionamento com Git e GitHub (Pull Requests e branches)*:
+Durante o processo, aplicamos boas práticas de *versionamento com Git e GitHub (Pull Requests e branches):
 
 * Cada integrante contribuiu no desenvolvimento e revisão do código.
 * Utilizamos uma branch específica de revisão (feature/revisao) para que cada membro pudesse validar o projeto antes do merge final.
@@ -22,9 +22,9 @@ Durante o processo, aplicamos boas práticas de *versionamento com Git e GitHub 
 
 ## 🧪 Testes Automatizados (BDD)
 
-Os testes foram desenvolvidos utilizando *Cucumber para Java, com cenários escritos em **Gherkin. O **Maven* foi utilizado para gerenciamento de dependências e execução dos testes.
+Os testes foram desenvolvidos utilizando Cucumber para Java, com cenários escritos em Gherkin. O Maven foi utilizado para gerenciamento de dependências e execução dos testes.
 
-O objetivo dos testes foi garantir que todas as regras de negócio fossem validadas automaticamente, seguindo a metodologia *BDD (Behavior-Driven Development)*.
+O objetivo dos testes foi garantir que todas as regras de negócio fossem validadas automaticamente, seguindo a metodologia BDD (Behavior-Driven Development).
 
 ### Estrutura de Testes
 
