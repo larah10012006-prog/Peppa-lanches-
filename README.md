@@ -50,9 +50,7 @@ A organização dos arquivos de teste segue a seguinte estrutura:
 Para configurar e rodar os testes da aplicação, utilize os seguintes comandos no terminal:
 
 1.  *Instalar dependências:*
-    bash
     mvn install
     
 2.  *Rodar os testes automatizados:*
-    bash
     mvn test
